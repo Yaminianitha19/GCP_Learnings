@@ -1,0 +1,1 @@
+gcp is only for google applications and services?
