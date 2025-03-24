@@ -25,11 +25,30 @@ it is the delivery of computing services over the internet including software, a
 
 
 <!-- what is google cloud platform -->
+The Google Cloud Platform (GCP) is a suite of cloud services that offers server space on virtual machines, internal networks, VPN connections, disk storage, machine language SaaS (Software as a Service) applications
+
  <!-- why GCP -->
 
-1. codt effective
+1. cost effective
 2. serverless
 3. iot
-4. api platforms
+4. API platforms
 5. highly scalable
 6. custom machine types
+
+<!--  uses of gcp instance and bucket in gcp -->
+![alt text](image-7.png)
+
+
+<!--AWS vs AZURE vs GCP -->
+
+![alt text](image-5.png)
+
+<!-- TOP Companies using cloud servers -->
+![alt text](image-6.png)
+
+<!-- storage services -->
+![alt text](image-8.png)
+
+<!-- GCP service domains -->
+![alt text](image-9.png)
