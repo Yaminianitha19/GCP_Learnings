@@ -52,3 +52,13 @@ The Google Cloud Platform (GCP) is a suite of cloud services that offers server 
 
 <!-- GCP service domains -->
 ![alt text](image-9.png)
+
+<!-- gcp compute engine -->
+
+1. compute engine
+2. app engine
+3. cotainer engine
+4. container registry 
+5. cloud functions
+
+![alt text](image-10.png)
